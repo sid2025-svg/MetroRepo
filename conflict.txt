@@ -1,1 +1,2 @@
-Content from master branch 
+Content from master branch
+Content from feature branch
